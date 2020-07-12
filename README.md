@@ -20,4 +20,4 @@ prophet-colab은 Facebook prophet 라이브러리를 활용한 거래량 예측 
 ## Reference
 [Facebook Prophet](https://github.com/facebook/prophet)
 
-[Forecasting Time Series data with Prophet – Jupyter Notebook](https://pythondata.com/forecasting-time-series-data-prophet-jupyter-notebook/))
+[Forecasting Time Series data with Prophet – Jupyter Notebook](https://pythondata.com/forecasting-time-series-data-prophet-jupyter-notebook/)
